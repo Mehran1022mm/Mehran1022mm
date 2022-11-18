@@ -41,15 +41,15 @@
 <br/>
 <br/>
 
-## Connect with me:
+## 📞 Connect with me:
 <p align="left">
 
 <a href = "https://telegram.org/mehran1022_robot"><img src="https://img.icons8.com/fluent/50/000000/telegram-app.png"/></a>
-
+<a href="https://discord.com/users/759836059236040717"><img src="https://skillicons.dev/icons?i=discord" alt="Discord"/></a>
 
 </p>
 
-## ❤ Views and Followers
+## 👀 Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=mehran1022mm">
 </a>
