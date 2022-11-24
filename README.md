@@ -31,16 +31,9 @@
 
 ## 📊 My Github Stats
 
-  <br/>
-    <a href="https://github.com/valaDevs/github-readme-stats"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=mehran1022mm&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mehran1022mm&theme=algolia&count-private=true&v=2">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehran1022mm&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117">
 <a href="https://github.com/Mehran1022?tab=followers">
-  <br/>
-
-
-
-<br/>
-<br/>
 
 ## 📞 Connect with me:
 <p align="left">
