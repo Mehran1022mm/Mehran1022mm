@@ -33,7 +33,8 @@
 
   <br/>
     <a href="https://github.com/valaDevs/github-readme-stats"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=mehran1022mm&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/valaDevs/github-readme-stats"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehran1022mm&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehran1022mm&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117">
+<a href="https://github.com/Mehran1022?tab=followers">
   <br/>
 
 
