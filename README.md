@@ -15,7 +15,6 @@
 
 - 👯 I’m looking to collaborate with **other developers**
 
-
 - 📫 How to reach me **tm.me/Mehran1022_Robot**
 
 - ⚡ Playing **CODM & Minecraft**
